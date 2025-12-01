@@ -1,5 +1,4 @@
-Below is your **FULL PROFESSIONAL README.md**, copy-paste ready for GitHub.
-Written clearly, formatted perfectly, and includes everything expected from a real-world project.
+
 
 ---
 
@@ -279,12 +278,14 @@ npm start
 
 # 📸 Screenshots (Add your images)
 
-You can add screenshots like:
 
 ```
-![Home Page](./screenshots/homepage.png)
-![Product Listing](./screenshots/listing.png)
-![Product Details](./screenshots/details.png)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7cfe43e5-2685-45c2-97ab-f4a9276d19f5" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/219d57ee-7319-44d2-8f0f-15b249a7ff2d" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0cc38388-924b-4bdc-a9b0-19bceba2b412" />
+
 ```
 
 ---
@@ -307,8 +308,8 @@ MIT License
 
 # 👨‍💻 Author
 
-**Your Name**
-React Developer | JavaScript Enthusiast | neoG Camp Learner
+**Tushar Kumar*
+React Developer | JavaScript Enthusiast | MERN Developer
 
 ---
 
